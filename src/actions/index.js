@@ -1,5 +1,5 @@
 import { services } from '../services/index';
-
+import { item } from '../models/Item';
 export const type = {
   POST: 'POST',
   PUT: 'PUT',
